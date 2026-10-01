@@ -14,8 +14,7 @@ Building AI agents, computer vision pipelines, and real-time software for autono
 | 🚦 | [Traffic Sign Classifier](https://github.com/shaikaltaaf123/traffic-sign-classifier) | PyTorch · CNN · GTSRB 97.18% |
 | 🚗 | [Real-Time ADAS Detection](https://github.com/shaikaltaaf123/Adas-Detection) | YOLOv8 · OpenCV · 30 FPS |
 | 🛣️ | [Lane Detection System](https://github.com/shaikaltaaf123/lane-detection-adas) | OpenCV · Hough Transform |
-| 🔌 | Vehicle Communication Simulator *(coming soon)* | Python · CAN Bus · UDS · SQLite |
-| 🤖 | ROS2 Perception System *(coming soon)* | ROS2 · C++ · Python |
+
 
 ---
 
